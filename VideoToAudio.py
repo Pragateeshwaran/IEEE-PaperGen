@@ -7,4 +7,3 @@ def video_to_audio(video_path, audio_path):
     video_clip.close()
     audio_clip.close()
 
-# Example usage
