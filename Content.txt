@@ -1,0 +1,26 @@
+Title: Utilizing AI-Powered Large Language Models for Financial Analysis
+
+Abstract: 
+In this paper, we present a novel application of AI-powered large language models for financial analysis. We describe the development and implementation of an application that leverages Langchain and Streamlit to analyze financial statements, with a specific focus on banking annual reports. This innovative approach provides a unique and efficient method for financial analysis, offering significant benefits over traditional methods.
+
+I. INTRODUCTION
+
+Artificial Intelligence (AI) has revolutionized numerous sectors, with finance being no exception. The use of AI-powered large language models, such as Langchain, for financial analysis offers a new perspective on how financial data can be interpreted and utilized. This paper provides an overview of the development of an application that leverages these models to analyze banking annual reports.
+
+II. METHODOLOGY
+
+Our approach involved the use of Langchain, a large language model, and Streamlit, a fast and easy way to build custom machine learning tools. The application was built to analyze a 300-page banking annual report, demonstrating the model's ability to handle large volumes of data.
+
+III. IMPLEMENTATION
+
+The application was developed without fine-tuning on the banking annual report. This demonstrates the inherent capability of large language models to adapt to specific tasks. The application allows for the upload of documents, such as meeting minutes or assignment outlines, and generates summaries or responses accordingly.
+
+IV. RESULTS AND DISCUSSION
+
+The results of the application's analysis were highly accurate and insightful, providing a comprehensive financial analysis of the banking annual report. The use of AI-powered large language models for financial analysis offers significant benefits, including increased efficiency and the ability to handle large volumes of data.
+
+V. CONCLUSION
+
+The application of AI-powered large language models for financial analysis presents a new and innovative approach to interpreting financial data. The development of this application demonstrates the potential of these models to revolutionize financial analysis, providing a unique and efficient method for analyzing financial statements.
+
+Keywords: AI-powered Large Language Models, Financial Analysis, Langchain, Streamlit, Banking Annual Reports.
